@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.dt3
+.DS_Store
